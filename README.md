@@ -1,2 +1,2 @@
-# learn-html
+# Learn HTML
  Code for HTML section
